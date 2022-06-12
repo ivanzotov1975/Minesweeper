@@ -4,13 +4,13 @@ using System.Drawing.Printing;
 namespace Minesweeper
 {
 
-    public partial class Form1 : Form
+    public partial class frmMinesweeperButton : Form
     {
         public int MaxRows { get; set; } = 0;
         public int MaxCols { get; set; } = 0;
 
 
-        public Form1()
+        public frmMinesweeperButton()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace Minesweeper
 {
-    partial class Form1
+    partial class frmMinesweeperButton
     {
         /// <summary>
         ///  Required designer variable.
@@ -118,7 +118,7 @@
             this.panelBoard.Size = new System.Drawing.Size(0, 0);
             this.panelBoard.TabIndex = 12;
             // 
-            // Form1
+            // frmMinesweeperButton
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
@@ -134,8 +134,9 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tbMaxRows);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Name = "Form1";
-            this.Text = "Minesweeper";
+            this.MinimumSize = new System.Drawing.Size(1000, 557);
+            this.Name = "frmMinesweeperButton";
+            this.Text = "Minesweeper - using Buttons as cells";
             this.ResumeLayout(false);
             this.PerformLayout();
 

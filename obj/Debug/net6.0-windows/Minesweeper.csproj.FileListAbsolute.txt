@@ -4,7 +4,6 @@ C:\VS\Net\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.runtimeco
 C:\VS\Net\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.dll
 C:\VS\Net\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.pdb
 C:\VS\Net\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.AssemblyReference.cache
-C:\VS\Net\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form1.resources
 C:\VS\Net\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Properties.Resources.resources
 C:\VS\Net\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.GenerateResource.cache
 C:\VS\Net\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,3 +15,4 @@ C:\VS\Net\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\refint\Minesweeper.dl
 C:\VS\Net\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.pdb
 C:\VS\Net\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.genruntimeconfig.cache
 C:\VS\Net\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\ref\Minesweeper.dll
+C:\VS\Net\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.frmMinesweeperButton.resources
