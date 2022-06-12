@@ -94,7 +94,7 @@ namespace Minesweeper
                 var mC = rndCol.Next(0, MaxCols);
                 if (!Cell.IsValidCell(mR, mC, MaxRows, MaxCols)) continue;
                 var cell = GetCellByRowColumn(mR, mC);
-                if (cell != null) Cell.SetMine(ref cell, true);
+                if (cell != null) Cell.SetMine(ref cell, chbShowMines.Checked);
 
             }
         }
